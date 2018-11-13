@@ -1,0 +1,7 @@
+Index(['Unnamed: 0', 'age', 'body_type', 'diet', 'drinks', 'drugs',
+       'education', 'essay0', 'essay1', 'essay2', 'essay3', 'essay4', 'essay5',
+       'essay6', 'essay7', 'essay8', 'essay9', 'ethnicity', 'height', 'income',
+       'job', 'last_online', 'location', 'offspring', 'orientation', 'pets',
+       'religion', 'sex', 'sign', 'smokes', 'speaks', 'status', 'drinks_code',
+       'smokes_code', 'drugs_code', 'essay_len'],
+      dtype='object')
